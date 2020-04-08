@@ -1,5 +1,5 @@
-[SimplePhpApp] (https://github.com/Saritasa/simplephpapp) in Docker
-======================
+# [SimplePhpApp](https://github.com/Saritasa/simplephpapp) in Docker
+
 
 ## Building the images in this repository
 
